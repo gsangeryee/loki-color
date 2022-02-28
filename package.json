@@ -1,0 +1,21 @@
+{
+    "name": "loki-color",
+    "displayName": "Loki Color",
+    "description": "Loki Color",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Loki Color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Loki Color-color-theme.json"
+            }
+        ]
+    }
+}
