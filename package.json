@@ -1,8 +1,24 @@
 {
     "name": "loki-color",
     "displayName": "Loki Color",
-    "description": "Loki Color",
+    "description": "A Visual Studio Code theme for the Loki Color is here. I like Tom Hiddleston's clothing color matching (Gold & Dark Green) in the TV show Loki. I also love the various green colors in the Starbucks brand colors. So I created this theme for my VS Code theme.",
     "version": "0.0.1",
+    "publisher": "saneryee",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gsangeryee/loki-color"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Loki",
+        "Loki Theme",
+        "Starbucks Theme",
+        "Starbucks",
+        "Green Theme",
+        "Gold Theme"
+      ],
     "engines": {
         "vscode": "^1.64.0"
     },

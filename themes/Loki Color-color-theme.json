@@ -1,11 +1,62 @@
 {
-	"name": "Loki Color",
+	"name": "Loki Gold & Green",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"contrastBorder": "#071a03",
+    	"focusBorder": "#071a03",
+    	"foreground": "#d6deeb",
+    	"widget.shadow": "#071a03",
+    	"selection.background": "#071a03",
+    	"errorForeground": "#EF5350",
+		"descriptionForeground": "#FDE581",
+
+		"button.background": "#006442",
+    	"button.foreground": "#E8DCA2",
+    	"button.hoverBackground": "#006442",
+
+		"input.background": "#0b253a",
+    	"input.border": "#FDE581",
+    	"input.foreground": "#ffffffcc",
+    	"input.placeholderForeground": "#4e4c40",
+
+		"editorGroup.emptyBackground": "#011627",
+    	"editorGroup.border": "#011627",
+    	"editorGroup.dropBackground": "#7e57c273",
+    	"editorGroupHeader.noTabsBackground": "#011627",
+    	"editorGroupHeader.tabsBackground": "#011627",
+    	"editorGroupHeader.tabsBorder": "#262A39",
+
+    	"tab.activeBackground": "#071a03",
+    	"tab.activeForeground": "#FDE581",
+    	"tab.border": "#272B3B",
+    	"tab.activeBorder": "#262A39",
+    	"tab.unfocusedActiveBorder": "#262A39",
+    	"tab.inactiveBackground": "#01111d",
+    	"tab.inactiveForeground": "#99B927",
+    	"tab.unfocusedActiveForeground": "#5f7e97",
+    	"tab.unfocusedInactiveForeground": "#5f7e97",
+
+		"titleBar.activeBackground": "#071a03",
+    	"titleBar.activeForeground": "#E8DCA2",
+    	"titleBar.inactiveBackground": "#010e1a",
+    	"titleBar.inactiveForeground": null,
+
+
+		"textCodeBlock.background": "#4f4f4f",
+		"editor.background": "#071a03",
+		"editor.foreground": "#d6d3ae",
+		"sideBarTitle.foreground": "#E8DCA2",
+		"sideBar.background": "#092004",
+		"sideBar.foreground": "#99B927",
+
+		"activityBarBadge.background": "#0b450a",
+		"activityBar.background":"#071a03",
+		"activityBar.foreground":"#d6ae2f",
+		"statusBar.background":"#50630d",
+		"statusBar.foreground":"#d6ae2f",
+		"panel.background":"#071a03",
+		"panelTitle.activeForeground":"#d6ae2f",
+
 	},
 	"tokenColors": [
 		{
@@ -436,7 +487,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#d6d3ae"
 			}
 		},
 		{
