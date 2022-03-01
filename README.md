@@ -7,7 +7,7 @@ If you also like green and gold, please install this theme. I hope you like it.
 
 
 ## Loki Color
-
+![Loki Color](loki-color.png)
 
 # Installation
 
